@@ -1,6 +1,7 @@
 
 <template>
   <v-card>
+    hello world
       <v-flex xs12 sm10>
         <v-tree url="/item/category/list"
                 :isEdit="isEdit"
